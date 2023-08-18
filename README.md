@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome! 👋
 
-<!--
-**thanosngplus/thanosngplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Thanos. I like programming for its logical thinking and the dopamine hits that I get when I build something that works, is fast, and people can use it.
+I'm passionate about backend development. I know enough JavaScript, TypeScript and Python to work productively.
 
-Here are some ideas to get you started:
+I started learning Java because I got curious about the nature of the pure OOP paradigm. I became a fan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My motto is "Keep curiosity burning!!!🔥" 
+
+Check my other profiles:
+
+- [Leetcode](https://leetcode.com/nathanades/)
+- [LinkedIn](https://www.linkedin.com/in/thanosades/)
