@@ -1,9 +1,12 @@
 # Welcome! 👋
 
-My name is Thanos. I like programming for its logical thinking and the dopamine hits that I get when I build something that works, is fast, and people can use it.
-I'm passionate about backend development. I know enough JavaScript, TypeScript and Python to work productively.
+My name is Thanos. I like programming because:
+- I enjoy puzzles
+- I get a "dopamine hit" when my code is running
+- I get a "dopamine hit" when I improve my code
+- I like it when a user tells me they love what I made 
 
-I started learning Java because I got curious about the nature of the pure OOP paradigm, and I ended up enjoying it.
+I can work in both frontend and backend, but I'm more passionate about backend.
 
 Check my other profiles:
 - [Leetcode](https://leetcode.com/nathanades/)
