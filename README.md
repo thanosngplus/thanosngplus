@@ -1,10 +1,9 @@
 # Welcome! 👋
 
-My name is Thanos. I like programming because:
-- I enjoy puzzles
-- I get a "dopamine hit" when my code is running
-- I get a "dopamine hit" when I improve my code
-- I love it when users show appreciation and excitement for something I made! 
+I'm Thanos, and I love building software. 
+
+My passion is in backend development because I enjoy thinking and optimizing the business logic and infrastructure.
+I'm looking for a product-based company, and a motivated engineering team that values software performance and maintainability, just like I do. 
 
 Check my other profiles:
 - [LeetCode](https://leetcode.com/popbee/)
