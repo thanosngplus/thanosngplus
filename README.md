@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 ## About Me
-My name is Thanos and I'm a software engineer. I used to be a fullstack developer, but after reading DDIA I became more interested in backend. 
+My name is Thanos and I'm a software engineer. I used to be a full-stack developer, but after reading DDIA I became more interested in backend. 
 I'm more interested in working with data-heavy applications, distributed systems, and microservices.
 
 As someone who takes pride in what he does I enjoy writing performant, scalable and maintainable applications. 
