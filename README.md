@@ -7,7 +7,7 @@ and want to work on data-intensive applications, distributed systems, and micros
 As someone who takes pride in what he does I enjoy writing performant, scalable and maintainable applications. 
 However, I won't let pride get in the way of my self-improvement or the results because, at the end of day, there's no value to software no one wants to use. 
 
-For my next job I want to use Java and Spring as backend developer.
+For my next job I want to use Java and Spring as a backend developer, but I'm also open to JavaScript/TypeScript and full-stack roles.
 
 Check my other profiles:
 - [LeetCode](https://leetcode.com/popbee/)
