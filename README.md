@@ -9,6 +9,8 @@ but what's more important are fundamentals and adaptation.
 
 I'd love to work for a product-based company, as part of a tight knit team where I can make a positive impact!
 
+Contact me at thanosades@proton.me
+
 ## My Other Profiles
 - [LeetCode](https://leetcode.com/popbee/)
 - [LinkedIn](https://www.linkedin.com/in/thanosades/)
