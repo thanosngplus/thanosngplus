@@ -1,13 +1,17 @@
 # Welcome! 👋
 
 ## About Me
-I've been in love with programming since I attended Harvard's CS50. "Learn like a scientist, apply like an engineer" is my motto. 
-I enjoy diving into systems, get my hands dirty and learn how they tick in order to improve them.
 
-I'm currently looking for a backend development role. I believe that languages are tools (I do have a soft spot for strongly typed languages like Java, TypeScript, Golang, and Rust!), 
-but what I value more are fundamentals and the ability to learn new things and adapt.
+I'm a software engineer who loves solving technical and business problems with code.
 
-I want to work for a product-based company, as part of a tight knit team where I can make a positive impact!
+My motto is: **Learn like a scientist, build like an engineer.**
+
+I enjoy diving into systems, getting my hands dirty tinkering,  learn how they tick, and making them harder, better, faster, and stronger.
+
+I'm currently looking for a backend role. While I believe that languages are tools, I enjoy working with strongly typed languages like Java, TypeScript, Golang, and Rust! 
+However, I value fundamental understanding, work ethic, and the ability to learn new things and adapt more.
+
+I'm currently looking to work for a product-based company as part of a tight-knit team where I can make a big positive impact.
 
 Contact me at thanosades@proton.me
 
