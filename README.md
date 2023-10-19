@@ -16,5 +16,5 @@ I'm currently looking to work for a product-based company as part of a tight-kni
 Contact me at thanosades@gmail.com
 
 ## My Other Profiles
-- [LeetCode](https://leetcode.com/popbee/)
+- [LeetCode](https://leetcode.com/thanosades)
 - [LinkedIn](https://www.linkedin.com/in/thanosades/)
