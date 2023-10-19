@@ -13,7 +13,7 @@ I'm also confident on my ability to pick new technologies, and ultimately learn 
 
 I'm currently looking to work for a product-based company as part of a tight-knit team where I can make a big positive impact.
 
-Contact me at thanosades@proton.me
+Contact me at thanosades@gmail.com
 
 ## My Other Profiles
 - [LeetCode](https://leetcode.com/popbee/)
