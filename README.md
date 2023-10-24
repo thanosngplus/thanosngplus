@@ -20,3 +20,6 @@ Contact me at thanosades@gmail.com
 
 ## Currently Learning
 Angular
+
+## Currently Improving
+.NET Core
