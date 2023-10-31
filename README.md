@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a software engineer who prefers to demonstrate his passion and dedication to great work with actions, not words.
+Passionate software engineer following the path of constant self-improvement like Goku. 
 
 Contact me at thanosades@gmail.com for professional inquiries.
 
