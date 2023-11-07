@@ -5,9 +5,7 @@
 
 I'm passionate about solving technical and business problems with code. My greatest strength is also my greatest weakness: I can get really obsessed with what I'm currently working. As you can already tell, I'm not into work-life balance.
 
-I enjoy diving into systems to learn how they tick by getting my hands dirty. I value knowledge of fundamentals, work ethic, and personality above all.
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you!</b></em>
+I enjoy diving into systems to learn how they tick by getting my hands dirty. I value knowledge of fundamentals, work ethic, and personality.
 
 ## Preferred Technologies
 ### Frontend
