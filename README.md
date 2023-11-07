@@ -7,6 +7,8 @@ I'm passionate about solving technical and business problems with code. My great
 
 I enjoy diving into systems to learn how they tick by getting my hands dirty. I value knowledge of fundamentals, work ethic, and personality.
 
+I want to become a member of a team that will allow me to collaborate, contribute and make a great impact to their products.
+
 ## Preferred Technologies
 ### Frontend
 
