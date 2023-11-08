@@ -24,4 +24,4 @@ I want to become a member of a team that will allow me to collaborate, contribut
 ### :fire: My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosngplus&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosngplus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosngplus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
