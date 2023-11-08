@@ -15,7 +15,7 @@ I want to become a member of a team that will allow me to collaborate, contribut
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,vue,tailwind,materialui" alt="preferred technologies front end" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,golang,rust,java,spring,fastapi,postgresql,mysql,rabbitmq,kafka" alt="preferred back end" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,golang,rust,cs,dotnet,fastapi,postgresql,mysql,rabbitmq,kafka" alt="preferred back end" />
 
 ### Tooling
 <img src="https://skillicons.dev/icons?i=linux,vscode,neovim,jest,docker,kubernetes,git,bash" alt="preferred tooling" />
