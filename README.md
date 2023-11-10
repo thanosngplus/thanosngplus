@@ -3,11 +3,8 @@
 
 ### Hi there 👋 I'm Thanos, a Software Engineer! :smiley:
 
-I'm passionate about solving technical and business problems with code. My greatest strength is also my greatest weakness: I can get really obsessed with what I'm currently working. As you can already tell, I'm not into work-life balance.
-
-I enjoy diving into systems to learn how they tick by getting my hands dirty. I value knowledge of fundamentals, work ethic, and personality.
-
-I want to become a member of a team that will allow me to collaborate, contribute and make a great impact to their products.
+I'm passionate about solving technical and business problems with code. I enjoy diving into a project, and learn how it works by getting my hands dirty. When it comes to teammates, I value work ethic and personality just as much as competence.
+I want to become a member of a team that will allow me to collaborate, contribute and create positive value for their software.
 
 ## Preferred Technologies
 ### Frontend
