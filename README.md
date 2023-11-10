@@ -12,7 +12,7 @@ I want to become a member of a team that will allow me to collaborate, contribut
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,vue,tailwind,materialui" alt="preferred technologies front end" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,golang,cs,dotnet,python,django,postgresql,mysql" alt="preferred back end" />
+<img src="https://skillicons.dev/icons?i=nodejs,golang,rust,postgresql,mysql" alt="preferred back end" />
 
 ### Tooling
 <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,docker" alt="preferred tooling" />
