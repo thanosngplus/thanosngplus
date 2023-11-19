@@ -15,7 +15,7 @@ I want to become a member of a team that will allow me to collaborate, contribut
 <img src="https://skillicons.dev/icons?i=nodejs,golang,rust,postgresql,mysql" alt="preferred back end" />
 
 ### Tooling
-<img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,docker" alt="preferred tooling" />
+<img src="https://skillicons.dev/icons?i=linux,bash,neovim,git,docker" alt="preferred tooling" />
 
 
 ### :fire: My Stats :
