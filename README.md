@@ -1,21 +1,19 @@
 # Welcome 
 
 
-### Hi there 👋 I'm Thanos, a Software Engineer! :smiley:
+## Hi there 👋 I'm Thanos, a Software Engineer! :smiley:
 
 I'm passionate about solving technical and business problems with code. I enjoy diving into a project, and learn how it works by getting my hands dirty. When it comes to teammates, I value work ethic and personality just as much as competence.
 I want to become a member of a team that will allow me to collaborate, contribute and create positive value for their software.
 
-## Preferred Technologies
-### Frontend
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,golang,rust" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,materialui" alt="preferred technologies front end" />
+### Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi" alt="Frameworks" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,golang,rust,postgresql,mysql" alt="preferred back end" />
-
-### Tooling
-<img src="https://skillicons.dev/icons?i=linux,bash,neovim,git,docker" alt="preferred tooling" />
+### Tools
+<img src="https://skillicons.dev/icons?i=linux,bash,neovim,git,docker,postgres,mysql,mongo,redis,kafka" alt="Tools" />
 
 
 ### :fire: My Stats :
