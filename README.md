@@ -4,7 +4,7 @@
 ## Hi there 👋 I'm Thanos, a Software Engineer! :smiley:
 
 I'm passionate about solving technical and business problems with code. I enjoy diving into a project, and learn how it works by getting my hands dirty. When it comes to teammates, I value work ethic and personality just as much as competence.
-I want to become a member of a team that will allow me to collaborate, contribute and create positive value for their software.
+I want to become a member of a passionate engineering team to collaborate, contribute and create positive value for their software.
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=cs,ts,python,golang,rust" alt="Languages" />
