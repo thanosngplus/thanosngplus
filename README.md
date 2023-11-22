@@ -7,13 +7,13 @@ I'm passionate about solving technical and business problems with code. I enjoy 
 I want to become a member of a team that will allow me to collaborate, contribute and create positive value for their software.
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python,golang,rust" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cs,ts,python,golang,rust" alt="Languages" />
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=dotnet,express,nestjs,fastapi,django" alt="Frameworks" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=linux,bash,neovim,git,docker,postgres,mysql,mongo,redis,kafka" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=linux,bash,vscode,visualstudio,git,docker,postgres,mysql,mongo,redis,kafka" alt="Tools" />
 
 
 ### :fire: My Stats :
