@@ -7,10 +7,10 @@ I'm passionate about solving technical and business problems with code. I enjoy 
 I want to become a member of a passionate engineering team to collaborate, contribute and create positive value for their software.
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,golang,ts,js,cs" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=golang,ts,js,cs" alt="Languages" />
 
-### Frameworks
-<img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,django,dotnet,react,nextjs" alt="Frameworks" />
+### Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=dotnet,express,nestjs,react,nextjs" alt="Frameworks" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=linux,bash,vscode,visualstudio,git,docker,postgres,mysql,mongo,redis,rabbitmq,kafka" alt="Tools" />
