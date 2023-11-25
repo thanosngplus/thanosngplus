@@ -10,7 +10,7 @@ I want to become a member of a passionate engineering team to collaborate, contr
 <img src="https://skillicons.dev/icons?i=python,golang,ts,js,cs" alt="Languages" />
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,django,dotnet" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,django,dotnet,react,nextjs" alt="Frameworks" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=linux,bash,vscode,visualstudio,git,docker,postgres,mysql,mongo,redis,rabbitmq,kafka" alt="Tools" />
