@@ -7,7 +7,7 @@ I'm passionate about solving technical and business problems with code. I enjoy 
 I want to become a member of a passionate engineering team to collaborate, contribute and create positive value for their software.
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=golang,ts,js,cs" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cs,ts,rust" alt="Languages" />
 
 ### Frameworks and Libraries
 <img src="https://skillicons.dev/icons?i=dotnet,express,nestjs,react,nextjs" alt="Frameworks" />
