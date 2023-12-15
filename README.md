@@ -5,8 +5,6 @@
 
 I'm a software engineer walking on the never-ending road of self-improvement. I'm passionately curious about distributed systems and data-intensive applications.
 
-While I enjoy working with C# and .NET Core, I keep myself language agnostic, open-minded and updated with the latest advancements in software engineering.
-
 ### 🚀 My Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosngplus&show_icons=true&theme=radical)
 
