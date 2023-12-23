@@ -1,7 +1,7 @@
 # Welcome 
 
 
-## Hi there 👋 I'm Thanos! :smiley:
+## Hi there 👋 I'm Thanos! :grin:
 
 I'm a software engineer walking on the never-ending road of self-improvement. 
 
