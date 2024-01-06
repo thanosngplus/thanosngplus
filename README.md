@@ -3,9 +3,9 @@
 
 ## Hi there 👋 I'm Thanos! :grin:
 
-I'm a software engineer walking on the never-ending road of self-improvement. 
+I'm a software engineer walking on the never-ending road of self-improvement. https://www.youtube.com/shorts/8XYDQlQUBnw
 
-I'm passionately curious about distributed systems and data-intensive applications.
+I'm passionate about distributed systems and data-intensive applications.
 
 ### 🚀 My Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosngplus&show_icons=true&theme=radical)
